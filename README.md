@@ -1,4 +1,4 @@
-name: TOT
+name: TOT Group
 description: Reward token of Steam Platform.
 image: "https://i.postimg.cc/kXdHZHNF/token-1.png"  
 address: "EQAdPA_PlC25umBIhjHNlWEHc2RX_9RMfKauZh1HgVKZbow4"
